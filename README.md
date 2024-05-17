@@ -48,10 +48,12 @@ The data was uploaded to Power BI as 6 different CSV files they can be found in 
 
 - **Data/**
   - Contains the original CSV files used for the analysis.
-- **Dashboard/**
-  - Contains the Power BI file (`.pbix`).
+- **Reports/**
+  - Contains the Power BI file (`Healthcare_Report.pbix`).
 - **README.md**
   - This file, providing an overview of the project.
+- **background.png**
+  - This file provides a background image for the README file.
 
 
 ## Acknowledgments
