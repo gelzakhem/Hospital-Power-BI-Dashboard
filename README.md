@@ -24,7 +24,7 @@ This repository contains a Power BI dashboard that visualizes hospital waitlist 
 
 ## Data Sources
 
-The data was uploaded to Power BI as 6 different CSV files.
+The data was uploaded to Power BI as 6 different CSV files they can be found in the Data folder.
 
 ## Data Transformation Steps
 
